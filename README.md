@@ -1,7 +1,6 @@
 # Getting Started with Create React App
-
-Result ->
-![Result] (https://github.com/fsdev22/Calculator-App-in-React/blob/main/Calculator.png)
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
