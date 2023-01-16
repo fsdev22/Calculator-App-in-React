@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Result ->
-![Result] (Calculator.png)
+![Result] (https://github.com/fsdev22/Calculator-App-in-React/blob/main/Calculator.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
